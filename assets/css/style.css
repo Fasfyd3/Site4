@@ -65,6 +65,9 @@ header{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.btn1:hover{
+    opacity: 0.6;
+}
 .btn2{
     padding-left: 18px;
     display: flex;
@@ -77,6 +80,9 @@ header{
     border-radius: 6px;
     width: 125px;
    
+}
+.btn2:hover{
+    opacity: 0.6;
 }
 .btn2_text{
     padding-bottom: 5px;
@@ -471,6 +477,9 @@ header{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.btn3:hover{
+    opacity: 0.6;
+}
 /*-----------------------------sec7-----------------------------*/
 .section7{
     width: 1440px;
@@ -658,6 +667,9 @@ input::-webkit-input-placeholder{
    margin: 7px 0 0 -80px;
    color: #FFFFFF;
    padding: 8px;
+}
+.text_em:hover{
+    opacity: 0.6;
 }
 .under_place{
     display: flex;
